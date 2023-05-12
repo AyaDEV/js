@@ -13,4 +13,4 @@ console.log(helloLib.hello());
 ```
 
 ### Author
-dhilt (c) 2017
+dhilt (c) 2017# js
